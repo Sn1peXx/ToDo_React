@@ -1,0 +1,17 @@
+.todo-item {
+    margin: 0 auto;
+    height: 90px;
+    width: 900px;
+    border: 1px solid rgba(145, 144, 144, 0.384);
+    border-right: none;
+    border-left: none;
+}
+
+.todo-item:first-child {
+    margin-top: 20px;
+    border-top: none;
+}
+
+.description-wrapper {
+    font-size: 18px;
+}

@@ -1,0 +1,24 @@
+.input-panel {
+    position: relative;
+    top: 3px;
+}
+
+.bottom-panel {
+    margin-top: 50px;
+    width: 500px;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 100px;
+    padding-bottom: 200px;
+}
+
+.btn {
+    position: relative;
+    left: 10px; 
+    top: 3px;
+    margin: 0 auto;
+}
+
+.input-panel {
+    width: auto;
+}
